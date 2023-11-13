@@ -1,6 +1,6 @@
 name: svgaplayer_flutter
 description: The SVGAPlayer implementation of Flutter using CustomPainter.
-version: 2.2.0
+version: 2.2.1
 homepage: https://github.com/yyued/SVGAPlayer-Flutter
 
 environment:
@@ -10,7 +10,7 @@ dependencies:
   flutter:
     sdk: flutter
   protobuf: ^2.0.0
-  http: ^0.13.3
+  http: ^1.1.0
   path_drawing: ^1.0.0
   archive: ^3.1.2
 
